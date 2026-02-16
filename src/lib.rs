@@ -29,7 +29,6 @@ extern crate alloc;
 
 
 use alloc::{vec, vec::Vec};
-use alloc::vec::Vec;
 
 /// Import items from the SDK. The prelude contains common traits and macros.
 use stylus_sdk::{alloy_primitives::U256, prelude::*};
